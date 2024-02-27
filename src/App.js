@@ -14,7 +14,7 @@ function App() {
           <button className='btn0'><a class="btn" href="#">Sign up</a></button>
         </ul>
       </header>
-
+{/*
       <main>
         <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
           <h1 class="display-4">Pricing</h1>
@@ -82,7 +82,7 @@ function App() {
           <a href='#'>Privacy</a>
           <a href='#'>Terms</a>
         </div>
-      </footer>
+      </footer> */}
     </div>
     // <div className="App">
     //   <header className="App-header">
