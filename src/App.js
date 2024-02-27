@@ -6,13 +6,13 @@ function App() {
     <div className="App">
       <header>
         <h3> JANOB JORCH1 </h3>
-        <ul>
+        {/* <ul>
           <li>Features</li>
           <li>Enterprise</li>
           <li>Support</li>
           <li>Pricing</li>
           <button className='btn0'><a class="btn" href="#">Sign up</a></button>
-        </ul>
+        </ul> */}
       </header>
 {/*
       <main>
