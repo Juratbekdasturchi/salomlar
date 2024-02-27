@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -6,15 +6,15 @@ function App() {
     <div className="App">
       <header>
         <h3> JANOB JORCH1 </h3>
-        {/* <ul>
+        <ul>
           <li>Features</li>
           <li>Enterprise</li>
           <li>Support</li>
           <li>Pricing</li>
           <button className='btn0'><a class="btn" href="#">Sign up</a></button>
-        </ul> */}
+        </ul>
       </header>
-{/*
+
       <main>
         <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
           <h1 class="display-4">Pricing</h1>
@@ -82,26 +82,8 @@ function App() {
           <a href='#'>Privacy</a>
           <a href='#'>Terms</a>
         </div>
-      </footer> */}
+      </footer>
     </div>
-    // <div className="App">
-    //   <header className="App-header">
-    //     {/* <h1> Assalomu alaykum va sizni tabriklayman </h1>
-    //     <img src={logo} className="App-logo" alt="logo" />
-    //     <p>
-    //       Edit <code>src/App.js</code> and save to reload.
-    //     </p> */}
-    //     {/* <a
-    //       className="App-link"
-    //       href="https://reactjs.org"
-    //       target="_blank"
-    //       rel="noopener noreferrer"
-    //     >
-    //       Learn React
-    //     </a> */}
-    //   </header>
-    // </div>
-
   );
 }
 
